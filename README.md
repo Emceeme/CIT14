@@ -1,2 +1,2 @@
 # CIT14 Projects
-[![I am GitHub Readme Generator's creator](https://CIT14.github.io/github-profile-readme-generator/images/banner.png)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Emceeme)](https://github.com/anuraghazra/github-readme-stats0
